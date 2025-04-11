@@ -1,1 +1,2 @@
-![UML_Ejercicio_Web](https://github.com/user-attachments/assets/167849d2-7cac-4a45-98c1-419c4cecb5b3)
+
+![UML_Ejercicio_Web](https://github.com/user-attachments/assets/1036750e-037f-435e-9a16-c6b4d930faa4)
